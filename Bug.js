@@ -1,0 +1,1 @@
+This error occurs when you are using a third-party library that is not compatible with the latest version of React Native or when there's a conflict between different libraries.
